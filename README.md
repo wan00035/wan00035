@@ -25,9 +25,7 @@ And I love cats very much.
 
  ![Xiaona's GitHub stats](https://github-readme-stats.vercel.app/api?username=wan00035&show_icons=true&theme=tokyonight)
 
- ### My side projects
 
- My projects are set to be private because it is an academic project
 
 
 
